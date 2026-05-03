@@ -31,4 +31,4 @@ Aquí puedes ver mi actividad y lenguajes más utilizados:
 
 ### 📫 Contacto
 - **LinkedIn:** [Tu Perfil](https://www.linkedin.com/in/johnny-rivadeneira-brenis-2b6ba964/)
-- Email: jrb.analistadatos@outlook.com
+- **Email:** jrb.analistadatos@outlook.com
